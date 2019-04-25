@@ -1,0 +1,41 @@
+      .navbar{
+                background:transparent;
+                
+              
+          }
+          .navbar-nav {
+              
+                        width: 100%;
+                        text-align: center;
+              height: inherit;
+                    }
+          .navbar-nav li {
+                            float: none;
+                            display: inline-block;
+                          
+
+                        }
+  
+        .navbar-header{
+                
+                    box-sizing: border-box;
+                        width: 100%;
+                    text-align: center;
+                    
+                    }
+        .navbar-header a{
+            font-size: 60px;
+            transition: 0.4s;
+                            float:none;
+                            display: inline-block;
+                        }
+
+                         #login {
+          float: right;
+          color: white;
+          margin-right: 20px;
+          margin-top: 20px;
+          background:transparent;
+          border: 0px;
+
+         }
